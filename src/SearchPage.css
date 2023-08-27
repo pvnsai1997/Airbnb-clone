@@ -1,0 +1,21 @@
+.swarchpage_info{
+    padding: 20px;
+}
+
+.searchpage_info >p {
+    margin-bottom: 10px;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.searchpage_info >h1 {
+    margin-bottom: 20px ;
+    margin-left: 20px;
+}
+
+.searchpage_info > button {
+    border-radius : 20px;
+    text-transform: inherit;
+    margin: 5px;
+    margin-left: 20px ;
+}

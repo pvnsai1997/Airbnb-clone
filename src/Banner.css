@@ -1,0 +1,47 @@
+.Banner{
+    background: url(" https://plus.unsplash.com/premium_photo-1683296357476-db69c5ded3a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80 ") center center;
+    height: 50vh;
+    position: relative;
+}
+
+.Banner_info{
+    background-color: black;
+    color: white;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right:50px;
+    padding-bottom: 40px;
+    width: 300px;
+}
+
+.Banner_info > button {
+    background-color: #ff7779;
+    color: white; /* text colour */
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.Banner_info_button {
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+
+.Banner_search {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Banner_info > button:hover {
+    background-color: white;
+    color: #ff7779;
+}
+
+.Banner_info > h5 {
+    margin-top: 10px;
+
+
+}
